@@ -1,4 +1,4 @@
-!visuals(https://github.com/Vanillariis/WahSoundEffect/blob/main/Diagram.png)
+![Visuals](https://github.com/Vanillariis/WahSoundEffect/blob/main/Diagram.png)
 
 # System Overview
 Here is a walkthrough of the system presented in Figure 1. The system is supposed to create a wah effect that can be controlled dynamically.
